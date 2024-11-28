@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 My name is Talha</h1>
+<h1 align="left">Hey 👋 My name is Talha</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Full-stack wizard crafting sleek frontends with React, robust backends with Django, and sprinkling some Material UI magic—because who needs a life when you have code?</h2>
+<h3 align="left">Full-stack wizard crafting sleek frontends with React, robust backends with Django, and sprinkling some Material UI magic—because who needs a life when you have code? With a Computer Science degree from NUST, I turn complex challenges into seamless, user-friendly applications, leveraging my expertise in React, Django, and Node.js. From building intricate React components to scaling backend systems, I'm all about creating efficient, innovative solutions that push boundaries. So if you need someone who can not only code but make your ideas come to life, I’m your go-to problem solver—let’s make things happen, one line of code at a time!</h3>
 
 ###
 
