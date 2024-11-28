@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 My name is Talha</h1>
+<h1 align="center">Hey 👋 My name is Talha</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Full-stack wizard crafting sleek frontends with React, robust backends with Django, and sprinkling some Material UI magic—because who needs a life when you have code?</p>
+<h3 align="center">Full-stack wizard crafting sleek frontends with React, robust backends with Django, and sprinkling some Material UI magic—because who needs a life when you have code?</h2>
 
 ###
 
